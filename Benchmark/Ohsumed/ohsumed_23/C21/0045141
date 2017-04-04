@@ -1,0 +1,8 @@
+Identifying injuries and trauma severity in large databases.
+ In order to assess the cost and effectiveness of inpatient trauma care, trauma patients and their levels of severity must first be identified accurately using data from all hospitals, not just trauma centers.
+ The present study provides the methodology to identify injuries and trauma severity using discharge abstract data collected routinely by all hospitals.
+ In this study, the validity of defining trauma patients using routinely collected abstract data and two computerized patient classifications--Diagnosis Related Groups (DRGs) and Patient Management Categories (PMCs)--was tested using the trauma registry data of one major trauma center as the gold standard.
+ Medical records were reviewed to assess whether patients were accurately classified as having injuries by each of the two systems and whether patients were incorrectly omitted from the registry.
+ Results indicated that trauma patients are more accurately identified by PMCs (95.1% accuracy) than by either DRGs (44.4% accuracy) or the registry standard itself (91.8% accuracy).
+ Because patients identified by DRGs as trauma were not likely to be injured (21.2% specificity), and many true injuries were not identified as such by DRGs (47.9% sensitivity), per case payments to hospitals are unpredictable, and management based on DRG data is misleading.
+ By contrast, PMCs (97.8% sensitivity; 77.7% specificity) can be used to improve injury surveillance methods, to monitor outcomes in terms of morbidity and mortality, and to make hospital payment systems more equitable.

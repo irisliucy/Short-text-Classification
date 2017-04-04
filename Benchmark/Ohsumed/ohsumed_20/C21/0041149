@@ -1,0 +1,5 @@
+Drinking among subgroups in the adult population of New York State: a classification analysis using CART.
+ Using data from a representative sample of 5,952 adults in New York State, CART (Classification and Regression Trees) methodology was used to classify abstainers and drinkers according to interactions among 10 sociodemographic characteristics.
+ A CART analysis classifying abstainers versus drinkers selected income at $25,000 for the initial split with high rates of drinking among higher income individuals.
+ Low rates of drinking were shown for low income women with less than a high school education.
+ A second CART analysis was performed for drinkers only, revealing a number of subgroups of heavier drinkers, including non-Jewish, non-Oriental men under 35 years old and never-married or divorced minority women over the age of 24.

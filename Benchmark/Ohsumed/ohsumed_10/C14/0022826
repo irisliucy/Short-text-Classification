@@ -1,0 +1,9 @@
+Correlation dimension of heartbeat intervals is reduced in conscious pigs by myocardial ischemia.
+ A reduced standard deviation of RR intervals (SDRR) predicts increased mortality in groups of survivors of myocardial infarction.
+ Like SDRR, the correlation dimension (D2) describes variation within a sampled time series, but uniquely it reveals 1) the epoch's geometric structure and 2) the degrees of freedom of the generator.
+ These unique features may be more sensitive predictors of mortality than SDRR.
+ We developed a new algorithm for estimating D2 (i.e., the "point-D2"), tested it with known data, and found that it had greater accuracy for finite data than other published algorithms.
+ Analysis of RR intervals from eight conscious pigs undergoing acute occlusion of the left anterior descending coronary artery revealed a drop in the point-D2 from a control mean and standard deviation of 2.50 +/- 0.81 to 1.58 +/- 0.64 during the first minute of ischemia (p less than 0.01) and to 1.07 +/- 0.18 during the last minute preceding ventricular fibrillation (p less than 0.01).
+ Partial occlusions (50-90% reduction of coronary blood flow) evoked point-D2 reductions only 25-30% of control (p less than 0.01).
+ The point-D2 means were correlated between pigs with the magnitude of the respiratory sinus arrhythmia (p less than 0.01), but during ischemia this correlation was replaced by one between the standard deviation of the point-D2s and SDRRs.
+ Because the simultaneous reduction in the mean point-D2 and its standard deviation to 1.07 +/- 0.18 occurred in every case, was unique to the few minutes preceding ventricular fibrillation, and never reached these low values during other conditions in which it was reduced, we conclude that the point-D2 may be an accurate prospective predictor of mortality within the individual subject.

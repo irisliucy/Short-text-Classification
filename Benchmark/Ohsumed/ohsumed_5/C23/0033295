@@ -1,0 +1,11 @@
+Statistical modeling of prognostic indices for evaluation of critically ill patients.
+ OBJECTIVE: To identify the most predictive association of variables from the usual indices of severity of illness by statistical objective analysis.
+ DESIGN: Logistic regression analysis of the different variables of the most important indices.
+ SETTING: A general critical care medicine group practice in a university hospital.
+ PATIENTS: A total of 630 critical care patients age 12 to 87 yrs were evaluated.
+ The most important indices of severity of illness and the corresponding variables were recorded and the patient's course was followed for 3 months after ICU admission.
+ MEASUREMENTS AND MAIN RESULTS: One of our hypotheses was that the inclusion of an excessive number of variables to obtain the most common prognostic indices of mortality in critical care patients results in an underestimation of mortality and a redundancy of prognostic information.
+ We performed a logistic regression analysis using the variables of the currently used indices of critical care prognosis: Acute Physiology Score, Simplified Acute Physiology Score, Acute Physiology Score-II, and Mortality Prediction Model.
+ This mathematical approach resulted in a model of five variables: organ system failure, blood glucose, serum calcium, serum prothrombin activity, and serum osmolality.
+ The score obtained from this model gave accurate prognostic criteria:sensitivity 91.2% and specificity 90%, using a cutoff point of 0.7; sensitivity 86% and, specificity 94%, using a cutoff point of 0.5.
+ CONCLUSIONS: Our results show that suitable statistical management of the discriminant prognostic variables allows reduction of the number of variables of the severity indices currently used, obtaining five more predictive variables.

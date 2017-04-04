@@ -1,0 +1,9 @@
+Detection of marker associations with a dominant disease gene in genetically complex and heterogeneous diseases.
+ Linkage disequilibrium of a marker allele with disease may characterize a chromosomal region containing the disease gene.
+ In several diseases, only a limited number of pedigrees are linked to a particular region, because of linkage heterogeneity.
+ Disequilibrium in this situation is more easily detected when the association is positive (an infrequent marker allele associated with disease mutation), and sampling is conditional on presence or absence of illness in individuals or gametes.
+ Defining H as the marker frequency in illness-transmitting gametes, and Q the marker frequency in normal chromosomes, we compute the power of a given sample (of ill persons/gametes) to detect association in a disease that is genetically heterogeneous, with a dominantly transmitted form linked to a marker.
+ The estimation of Q and the effects of linkage heterogeneity (when unrelated individuals are examined) are also analyzed.
+ Two linked pedigrees give acceptable power to detect association when the allele is frequent enough in illness gametes (H greater than or equal to .6) and infrequent enough in normals (Q less than or equal to .01).
+ If H greater than or equal to .2, 14 pedigrees are needed to give the same power.
+ From the analysis of different values of Q and H, it appears that even in the presence of considerable genetic heterogeneity and complex inheritance (where some normals carry the disease mutation), association may be detected with clinically feasible sample sizes.

@@ -1,0 +1,6 @@
+How to build a computer-assisted, diagnosis-finding system. An example in dermatopathology.
+ We present a computer-assisted, diagnosis-finding system based on the simple stochastic approach of Bayes; this system was realized in a standard database architecture and run on DOS personal computers.
+ The expert knowledge in the form of specified morphologic criteria was keyed in by means of pull-down menus or downloaded if the system was linked with a reporting system according to the dBASE (Ashton-Tate, Inc, Torrance, Calif) database standard.
+ We present a simple example in dermatopathology but the system shell can also be used for applications in other fields of pathology.
+ This article is not restricted to general remarks about computer-assisted diagnosis finding.
+ The compiled program and the easily comprehensible and well-documented program listings in the CLIPPER (Nantucket Corp, Los Angeles, Calif) or DOS language is available on request.

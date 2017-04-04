@@ -1,0 +1,6 @@
+Spectral analysis of tremor: understanding the results.
+ Spectral analysis of a tremor record can sometimes produce a spectrum with multiple components of significant amplitude.
+ The problem is to determine whether the presence of several peaks represents the coexistence of separate tremor mechanisms or be a consequence of fluctuations in the frequency or amplitude of a single tremor.
+ The spectrum of a tremor whose frequency or amplitude vary and are independent has the recognisable pattern of a central carrier frequency with sidebands of equal amplitudes distributed symmetrically around the carrier.
+ However, if tremor amplitude and frequency fluctuate and are not independent, (frequency proportional to amplitude or frequency inversely proportional to amplitude), the spectrum has a pattern of sidebands which are asymmetrical in amplitudes and may resemble the spectrum of the combined signal from different independent oscillators.
+ The investigation of sidebands in spectra has been neglected in tremor studies and multiple irregular peaks on a tremor spectrum have sometimes been used wrongly as evidence for the coexistence of multiple tremor mechanisms or frequency components assumed to be concurrent.

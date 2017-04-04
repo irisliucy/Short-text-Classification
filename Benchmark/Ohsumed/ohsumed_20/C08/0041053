@@ -1,0 +1,12 @@
+Small-cell carcinoma of the lung: derivation of a prognostic staging system.
+ Retrospective data on 22 pretreatment attributes were evaluated in 614 patients with small-cell carcinoma of the lung (SCCL).
+ The series included 284 patients with limited disease (LD) and 328 patients with extensive disease (ED) managed between 1974 and 1986.
+ Prognostic factors were evaluated by univariate analysis and by the Cox multivariate regression model.
+ Recursive partition and amalgamation algorithm (RECPAM), two clustering methods well suited for obtaining strata and adapted for censoring survival data, were developed and used in the formulation of a new prognostic staging system.
+ In univariate analysis, prognosis was significantly influenced by extent of disease (DE), the number of metastatic sites, and the detection of mediastinal spread in LD.
+ Poor performance status (PS), male sex, and advanced age were negatively correlated with survival, as were increased serum levels of alkaline phosphates (AP), lactate dehydrogenase (LDH), carcinoembryonic antigen (CEA), total WBC count (WBCC), and low platelet count and low serum sodium.
+ The Cox model identified plasma LDH and mediastinal spread as the only significant factors in LD; the influence of PS, number of metastatic sites, bone metastasis, brain metastasis, and platelet count were identified as significant in ED.
+ The RECPAM model identified four distinct risk groups defined in a classification tree by the following eight attributes: DE, PS, serum AP, serum LDH, mediastinal spread, sex, WBCC, and liver metastasis.
+ The four groups were distinguished by median survival times of 59, 49, 35, and 24 weeks, respectively (P = .0001).
+ Interactions among prognostic factors are emphasized in the RECPAM classification model as evidenced by reassignment of patients across conventional staging barriers into alternate prognostic groups.
+ The advantages of using RECPAM over the more conventional Cox regression techniques for a new staging system are discussed.

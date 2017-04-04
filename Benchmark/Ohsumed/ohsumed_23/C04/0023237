@@ -1,0 +1,9 @@
+Quantifying the potential benefit of CA 125 screening for ovarian cancer.
+ We develop a stochastic model of screening for ovarian cancer with serum levels of the CA 125 radioimmunoassay, a tumor-specific marker.
+ The natural history of the disease is constructed using a four stage model characterized by a multivariate distribution for duration in each stage.
+ Preserving its important features, we simplify the model to a function of two parameters; the average duration in stage I and the coefficient of variation of duration in each stage.
+ A yearly screening program is superimposed using exponential CA 125 growth curves which result in stage-specific sensitivities corresponding to values reported in the literature.
+ By implementing a computer simulation of the stochastic model, we estimate the benefit due to screening.
+ This benefit is expressed as expected years of life saved per case of ovarian cancer.
+ The model incorporates the stochastic nature of the disease process, allows easy analysis of repeated screens, and automatically accounts for correlation between subsequent tests.
+ It provides the basis for planning optimal screening strategies with CA 125 testing.

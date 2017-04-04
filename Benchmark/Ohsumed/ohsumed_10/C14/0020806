@@ -1,0 +1,10 @@
+A model to predict multivessel coronary artery disease from the exercise thallium-201 stress test.
+ PURPOSE: The aim of this study was to (1) determine whether nonimaging variables add to the diagnostic information available from exercise thallium-201 images for the detection of multivessel coronary artery disease; and (2) to develop a model based on the exercise thallium-201 stress test to predict the presence of multivessel disease.
+ PATIENTS AND METHODS: The study populations included 383 patients referred to the University of Virginia and 325 patients referred to the Massachusetts General Hospital for evaluation of chest pain.
+ All patients underwent both cardiac catheterization and exercise thallium-201 stress testing between 1978 and 1981.
+ RESULTS: In the University of Virginia cohort, at each level of thallium-201 abnormality (no defects, one defect, more than one defect), ST depression and patient age added significantly in the detection of multivessel disease.
+ Logistic regression analysis using data from these patients identified three independent predictors of multivessel disease: initial thallium-201 defects, ST depression, and age.
+ A model was developed to predict multivessel disease based on these variables.
+ As might be expected, the risk of multivessel disease predicted by the model was similar to that actually observed in the University of Virginia population.
+ More importantly, however, the model was accurate in predicting the occurrence of multivessel disease in the unrelated population studied at the Massachusetts General Hospital.
+ CONCLUSION: It is, therefore, concluded that (1) nonimaging variables (age and exercise-induced ST depression) add independent information to thallium-201 imaging data in the detection of multivessel disease; and (2) a model has been developed based on the exercise thallium-201 stress test that can accurately predict the probability of multivessel disease in other populations.

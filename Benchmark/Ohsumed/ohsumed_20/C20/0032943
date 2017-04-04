@@ -1,0 +1,10 @@
+Impact of section doubling on lesion contrast.
+ Misregistration between section position and a feature of interest, such as a lesion, can result in loss of contrast on magnetic resonance images.
+ Because the section direction typically has the poorest resolution, reduction of section misregistration can improve lesion contrast.
+ Lesions occur at random sites; hence, to reduce misregistration, it is necessary to repeat imaging with a small amount of offset.
+ This is impractical.
+ Therefore, a reconstruction algorithm that yields offset sections was implemented, in which sections were produced with a zero- and a half-section shift.
+ This algorithm was tested in 14 patients with multiple sclerosis.
+ As expected, because of randomness associated with section placement relative to lesions, the half-shifted sections provided greater contrast as often as the zero-shifted sections.
+ The combined set improved contrast significantly in 39% of lesions; improvement was greatest in lesions with lesser contrast.
+ Signal-to-noise ratios were not affected by this process, which appears to be useful in magnetic resonance image reconstruction.

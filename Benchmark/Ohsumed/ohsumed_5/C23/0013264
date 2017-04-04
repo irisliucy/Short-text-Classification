@@ -1,0 +1,15 @@
+Advances in data assessment. Application to the etiology of nausea reported during chemotherapy, concerns about significance testing, and opportunities in clinical trials.
+ Typical inferential statistical procedures, such as the t-test and analysis of variance, compare differences in mean values of variables.
+ This approach can sometimes obscure rather than illuminate research data.
+ Here we present and discuss alternative data analytic techniques.
+ Potential advantages of box plots over conventional t-tests for understanding data are shown by comparing the area under high and low frequencies from spectral curves of autonomic changes following chemotherapy treatment.
+ Typical t-tests provide information regarding statistical significance in terms of the differences in group means; box plots and related exploratory techniques provide information regarding the characteristics of the distributions within the groups as well as examination of potential outliers.
+ Multivariate analysis of variance (MANOVA) and other multivariate techniques are commonly used to deal with potentially complex data sets with multiple outcome measures.
+ The potential advantages of visual clustering techniques such as star plots, Chernoff faces, and Andrew's Function Plots are demonstrated by examining changes in facial pallor caused by chemotherapy-induced nausea and vomiting.
+ Typical MANOVA approaches can identify potential differences in mean values between groups; visual clustering approaches do this by graphically presenting complex interrelationships for individual cases.
+ This approach enhances the visual interpretation of potential interactions that would be obscured by simply focusing on overall mean values.
+ Preliminary data from a meta-analysis on the effect of metoclopramide on chemotherapy-induced vomiting demonstrates the potential uses and advantages of this summary technique over simple tabular summaries.
+ We found significant relationships between the effect size of the drug and variables such as the year of study publication and whether the publication was an article or an abstract.
+ While none of these techniques are meant to replace traditional inferential statistics, they offer advantages in terms of data exploration and understanding relationships within data sets that are not clearly addressed by other methods.
+ They are potentially valuable alternatives worthy of exploration.
+ Finally, we discuss issues of interim analyses and multiple endpoint assessment for clinical trials.

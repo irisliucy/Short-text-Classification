@@ -1,0 +1,9 @@
+Limited sampling models for doxorubicin pharmacokinetics.
+ Although doxorubicin is one of the most commonly used antineoplastics, no studies to date have clearly related the area under the concentration-time curve (AUC) to toxicity or response.
+ The limited sampling model has recently been shown to be a feasible method for estimating the AUC to facilitate pharmacodynamic studies.
+ Data from two previous studies of doxorubicin pharmacokinetics were used, including 26 patients with sarcoma and five patients with breast cancer or unknown primary.
+ The former were divided into a training data set of 15 patients and a test datum set of 11 patients, and the latter patients formed a second test data set.
+ The model was developed by stepwise multiple regression on the training data set: AUC (nanogram hour per milliliter) = 17.39 C2 + 163 C48-111.0 [dose/(50 mg/m2)], where C2 and C48 are the concentrations at 2 and 48 hours after bolus dose.
+ The model was subsequently validated on both test data sets: first test data set--mean predictive error (MPE), 4.7%; root mean square error (RMSE), 12.4%; second test data set--MPE, 4.5%, RMSE, 9.2%.
+ An additional model was also generated using a simulated time point to estimate the total AUC for a daily x 3-day schedule: AUC (nanogram hour per milliliter) = 44.79 C2 + 175.65 C48 + 47.25 [dose/(25 mg/m2/d)], where the C48 is obtained just prior to the third dose.
+ We conclude that the AUC of doxorubicin after bolus administration can be adequately estimated from two timed plasma concentrations.

@@ -1,0 +1,8 @@
+Image processing in swallowing and speech research.
+ An image processing system for application to studies of the temporal and spatial parameters of movement during swallowing and speech is described.
+ Image sequences from videotape are digitized for computerized manipulation and analysis in an attempt to improve on conventional visual inspection.
+ The system is "interactive" or "event-driven": after executing a function, the computer waits for guidance from the user who controls the program through keyboard and mouse input, selecting options from menus and responding to prompts.
+ The analyst alters image clarity by the application of filters and heightens contrast through video enhancement.
+ A technique called "remapping" reduces head motion and provides uniform spatial scaling.
+ Animated sequences of images are used, as opposed to frame-by-frame analysis, to preserve temporal context and increase efficiency of measurement.
+ Low cost off-the-shelf personal computer hardware is used along with original software tailored to the application.

@@ -1,0 +1,10 @@
+Time delay compensation for closed-loop insulin delivery systems: a simulation study.
+ Closed loop insulin therapy certainly represents the best possible approach to insulin replacement.
+ However, present limitations preclude wider application of the so-called artificial pancreas.
+ Therefore, a thorough understanding of these limitations is needed to design better systems for future long-term use.
+ The present simulation study was design: to obtain better information on the impact of the measurement delay of currently available closed-loop devices both during closed-loop insulin delivery and blood glucose clamp studies, and to design and test a time delay compensator based on the method originally described by O.J.
+ Smith.
+ Simulations were performed on a Compaq Deskpro 486/25 personal computer under MS-DOS operating system using Simnon rel.
+ 3.00 software.
+ There was a direct relationship between measurement delay and amount of insulin delivered, i.e., the longer the delay the higher the insulin dose needed to control a rise in blood glucose; the closed-loop response in presence of a time delay was qualitatively impaired both during insulin delivery and blood glucose clamp studies; time delay compensation was effective in reducing the insulin dose and improving controller stability during the early phase of clamp studies.
+ However, the robustness of a Smith's predictor-based controller should be carefully evaluated before implementation in closed-loop systems can be considered.

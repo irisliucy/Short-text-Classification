@@ -1,0 +1,11 @@
+Spectral vs. compartmental averaging of VA/Q distributions: confidence limits.
+ We have investigated the method of statistical averaging as a nonparametric approach to obtain a representative ventilation-perfusion (VA/Q) distribution that exemplifies the family of compatible solutions for multiple inert gas elimination data.
+ The variability of the compatible solutions was examined by determining the standard deviation of the statistical average.
+ For six inert gases, it can be predicted that a distribution with up to seven contiguous nonzero VA/Q compartments can be uniquely recovered, whereas the compatible family becomes more diverse, the broader the distribution.
+ For a given compatible family consisting of multimodal distributions with various phase relationships, the average distribution was found to display an uncharacteristically unimodal shape as a result of modal smoothing.
+ To avoid this possible artifact, an alternative approach was adopted in which statistical averaging was performed in the frequency domain.
+ For both deterministic and empirical data, the energy spectra of all feasible VA/Q distributions displayed a well-defined low-frequency band that was invariant within the compatible family and with a bandwidth that approximated the predicted sampling cutoff frequency.
+ The nonuniqueness of the result was ascribable to a variable high-frequency band that was due to an aliasing effect.
+ For a wide range of clinical data, the representative distributions resulting from compartmental and spectral averaging were indistinguishable from each other and had little variability both in the VA/Q and frequency domains.
+ For these cases, therefore, the resolving power of the recovery algorithm was not critical.
+ Finally, an efficient method of finding the average distribution was proposed.

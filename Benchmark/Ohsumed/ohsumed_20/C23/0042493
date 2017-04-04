@@ -1,0 +1,16 @@
+Proarrhythmic response to sodium channel blockade. Theoretical model and numerical experiments.
+ BACKGROUND.
+ The use of flecainide and encainide was terminated in the Cardiac Arrhythmia Suppression Trial because of an excess of sudden cardiac deaths in the active treatment group.
+ Such events might arise from reentrant rhythms initiated by premature stimulation in the presence of anisotropic sodium channel availability.
+ Drugs that bind to sodium channels increase the functional dispersion of refractoriness by slowing (a result of the drug-unbinding process) the transition from an inexcitable state to an excitable state.
+ It is interesting that encainide and flecainide unbind slowly (15-20 seconds), whereas lidocaine and moricizine unbind rapidly (0.2-1.3 seconds).
+ METHODS AND RESULTS.
+ With a computer representation of a cable with Beeler-Reuter membrane properties, we found a small (6 msec) vulnerable window that occurred 338 msec after the last drive stimulus.
+ Premature stimuli falling within the vulnerable window resulted in unidirectional block and reentrant activation.
+ In the presence of a slowly unbinding drug, the window was delayed an additional 341 msec, and its duration was extended to 38 msec.
+ The delay (antiarrhythmic effect) before the onset of the vulnerable window and its duration (proarrhythmic effect) were both dependent on the sodium channel availability and the recovery process.
+ Both effects were also prolonged when sodium channel availability was reduced by membrane depolarization.
+ Defining the proarrhythmic potential as the duration of the vulnerable window, we found that hypothetical use-dependent class I drugs have a greater proarrhythmic potential than non-use-dependent drugs.
+ CONCLUSIONS.
+ The antiarrhythmic and proarrhythmic properties of pure sodium channel antagonists are both dependent on sodium channel availability.
+ Consequently, the price for increased antiarrhythmic efficacy (suppressed premature ventricular contractions) is an increased proarrhythmic vulnerability to unsuppressed premature ventricular contractions.

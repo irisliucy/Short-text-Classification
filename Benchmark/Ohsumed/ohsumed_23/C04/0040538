@@ -1,0 +1,8 @@
+CA 125 regression: a model for epithelial ovarian cancer response.
+ The rate of decline of CA 125 in effectively treated epithelial ovarian cancer is described by the exponential regression curve CA 125 = EXP [i - s (days after surgery)].
+ In this equation i, the y-axis intercept, measures initial tumor burden whereas s, the slope of the regression curve, is determined by the extent of cytoreductive surgery and the subsequent response to chemotherapy.
+ Departure from the regression curve uniformly results in progressive disease.
+ In patients whose cancers had been completely removed, we calculated the mean half-life of CA 125 to be 10.4 days (range 4 to 21).
+ In this case s = 0.0835 and characterizes the ideal regression rate.
+ The model predicts that high-dose cisplatin chemotherapy (s = 0.0671) is more effective than low-dose cisplatin (s = 0.0380) (p less than 0.03) in eliminating residual cancer.
+ Because s can be calculated within 2 to 3 months of treatment and then compared with s for the ideal regression curve and with the values of s reported for standard chemotherapy, evaluation of any new treatment protocol can be facilitated with this method.

@@ -1,0 +1,6 @@
+Chemical shift artifact: dependence on shape and orientation of the lipid-water interface.
+ On magnetic resonance images, chemical shift artifact (CSA) can be seen at a planar lipid-water interface oriented within the plane of the phase-encoding and section-select directions (ie, perpendicular to the frequency-encoding direction).
+ Phantoms and a clinical case were used to demonstrate that when a lipid-water interface is curvilinear (eg, spherical) or planar but not oriented along the section-select direction, CSA may be absent or diminished.
+ This effect can be seen at interfaces of normal structures (kidneys, bladder) as well as at interfaces with pathologic lesions such as lipid-containing dermoids.
+ Not only is this effect dependent on section thickness, field of view, matrix size, and receiver bandwidth, but it is also strongly dependent on the orientation of the interface with respect to the section-select direction.
+ Knowledge of the factors that can alter CSA is important since it is used to distinguish lipid-containing from nonlipid-containing structures of similar signal intensities.

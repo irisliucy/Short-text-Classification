@@ -1,0 +1,7 @@
+Analyzing laboratory marker changes in AIDS clinical trials.
+ Repeated measurements of laboratory markers of immunologic or disease status, such as CD4 lymphocyte counts and HIV p24 antigen levels, can be important end points in comparative clinical trials.
+ In this report, we consider comparison of treatment groups with respect to such markers, focusing on a distribution-free approach in which each participant's data are characterized by a single summary statistic.
+ The summary statistics examined are (a) the slope of the least-squares regression of the marker, (b) the average of the last r measurements, and (c) the difference between the averages of the last r and the first s measurements.
+ Under various models of marker time trends, these methods are compared with regard to statistical power.
+ It is found that the slope is usually more efficient than the other two types of summaries.
+ Adaptations for missing data are discussed and illustrated in an analysis of CD4 counts from a recent AIDS clinical trial.

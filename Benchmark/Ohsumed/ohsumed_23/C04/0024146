@@ -1,0 +1,6 @@
+A frameless, armless navigational system for computer-assisted neurosurgery. Technical note.
+ A computer-assisted neurosurgical navigational system has been developed which displays intraoperative manipulation on the preoperative computerized tomography (CT) scans or magnetic resonance (MR) images.
+ The system consists of a three-dimensional digitizer, a personal computer, and an image-processing unit.
+ Utilizing recently developed magnetic field modulation technology, the three-dimensional digitizer determines the spatial position and orientation angles of the resin probe, triangle-shaped pointer, or suction tube with a small attached magnetic field sensor.
+ Four fiducial markers on the scalp were used to translate the spatial data of the probe onto the preoperative CT scans or MR images of the patient.
+ With this frameless, armless navigational system, CT or MR-imaging stereotaxy can be applied to conventional open neurosurgery without limiting the operative field or interfering with the surgical procedures.

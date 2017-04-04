@@ -1,0 +1,5 @@
+Shortcut method to calculate the sample size in trials of screening for chronic disease.
+ One of the first questions arising in the planning of a randomized trial to evaluate mortality reduction by screening concerns the sample size of the trial required to detect an expected mortality reduction in the study group for given significance level alpha, and power 1 - beta.
+ If estimates exist of the underlying average annual incidence rate of the disease ra and the annual mortality rate delta a or survival data for patients in the population under consideration before screening started, then a simple formula for the probability of dying from the disease within T years after entry into the trial can be given for the control group.
+ Standard formulas may then be used for sample size calculations in randomized trials, which compare the risk of death from the disease in the control and the study group accrued at T years after entry.
+ A simple correction for loss of follow-up, due to mortality from other causes or, for instance, migration is possible.

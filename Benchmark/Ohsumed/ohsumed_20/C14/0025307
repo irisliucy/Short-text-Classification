@@ -1,0 +1,12 @@
+Determination of pulse wave velocities with computerized algorithms.
+ Careful determination of pulse wave velocity is important in the study of arterial viscoelastic properties, wave reflections, and ventricular-arterial interactions.
+ In spite of its increasingly widespread use, there is as yet no standardized method for its determination.
+ Most studies have manually identified the transit time of the pressure wave front as it travels over a known distance in the arterial system, but the issues of accuracy and reproducibility have not been addressed.
+ This study was designed to investigate the efficacy of four computerized algorithms in the determination of pulse wave velocities in invasive as well as in noninvasive pressure determinations.
+ The four methods were the identification of: (1) the point of minimum diastolic pressure, (2) the point at which the first derivative of pressure is maximum, (3) the point at which the second derivative of pressure is maximum, and (4) the point yielded by the intersection of a line tangent to the initial systolic upstroke of the pressure tracing and a horizontal line through the minimum point.
+ High-fidelity aortic pressure recordings were obtained in 26 patients with a multi-sensor micromanometer catheter.
+ Noninvasive brachial and radial pressure waveforms were recorded in 11 volunteers with external piezoelectric transducers.
+ The results show that the first derivative method consistently provided results that were different from the other methods for both the invasive and noninvasive methods because of changes in the structure of the upstroke as the arterial pulse propagates distally.
+ Although the minimum method worked well for the invasive determinations, it was erratic with the noninvasive determinations, probably because of the higher amount of noise and reflection in the latter.
+ Among the four algorithms, the second derivative and the intersecting tangents methods worked well with both invasive and noninvasive determinations with mean variation coefficients of less than 7% and correlation coefficients between the methods of greater than 0.90 for all data.
+ In conclusion, computerized algorithms allow accurate determination of pulse wave velocity in invasively and noninvasively measured arterial pressure waveforms.

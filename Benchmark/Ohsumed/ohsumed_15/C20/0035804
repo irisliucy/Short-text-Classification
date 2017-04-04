@@ -1,0 +1,9 @@
+Neural network analysis of serial cardiac enzyme data. A clinical application of artificial machine intelligence.
+ There has been a recent resurgence of interest in the study and application of computerized neural networks within the broad field of artificial intelligence.
+ These "intelligent machines" are modeled after biological nervous systems and are fundamentally different from the many computerized expert systems that previously have been introduced as clinical decision-making aids.
+ The authors describe a neural network designed and trained to predict the probability of acute myocardial infarction (AMI) based on the analysis of paired sets of cardiac enzymes.
+ The neural network predicted 24 of 24 (100%) AMIs and 27 of 29 (93%) No-AMIs when compared with a pathologist's interpretation of the patient's laboratory data (P less than 0.000001).
+ The authors attempted to validate the network's diagnoses by two independent methods.
+ When compared with echocardiogram and EKG for diagnosis of AMI, the neural network agreed with the cardiologist's interpretation in 12 of 14 (86%) AMIs and 1 of 3 (33%) No-AMIs, but the correlation was not statistically significant.
+ Using autopsy outcome for validation, the neural network agreed with the anatomic evidence in 24 of 26 (92%) AMIs and 4 of 6 (67%) No-AMIs (P = 0.001).
+ The authors conclude that neural networks can be successfully applied to the analysis of cardiac enzyme data and suggest that broader applications exist within the domain of clinical decision support.

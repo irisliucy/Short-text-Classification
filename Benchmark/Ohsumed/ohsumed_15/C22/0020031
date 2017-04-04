@@ -1,0 +1,12 @@
+Quantifying lung structure. Experimental design and biologic variation in various models of lung injury.
+ The lung is a complex organ composed of a large number of different cell types of varying size and shape.
+ Quantification of lung structure requires an understanding of how the distribution of specific cells and their characteristics affect the accuracy of measurement made on them and how to optimize experimental design for a morphometric study.
+ We have studied lung structural modifications in a variety of lung injuries over the last decade.
+ Extensive quantitative data from EM morphometric studies of pulmonary tissue have been collected.
+ These data provide a unique opportunity to study the accuracy and efficiency of methods used to quantitate lung structure.
+ We present and discuss novel computation-intensive methods for the estimation of biologic variability, sampling error, and measurement error.
+ A new concept, unnested analysis of variance for stratified sampling and the use of computer-based methods for statistical analysis (the bootstrap method) and optimizing experimental design (nonlinear minimization procedure) are described in this report.
+ Examples of experimental designs with their corresponding levels of accuracy and cost are also provided.
+ The number of samples needed for a given level of precision is affected by the volume density of the structure being measured.
+ The most important determinant for the overall accuracy of a morphometric study is the number of animals studied.
+ Biologic variations between samples within an animal and among animals can vary significantly as a function of the model of injury studied.

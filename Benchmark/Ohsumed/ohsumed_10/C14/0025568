@@ -1,0 +1,14 @@
+A unified model of atrioventricular nodal conduction predicts dynamic changes in Wenckebach periodicity.
+ The atrioventricular (AV) node responds in a complex fashion to changes in activation rate.
+ A variety of approaches have been used to explain these dynamic AV nodal responses, but none has been able to account fully for AV nodal behavior.
+ Three specific rate-dependent properties of the AV node have been described: 1) time-dependent recovery after excitation, 2) an effect of short cycles to advance recovery ("facilitation"), and 3) a gradual slowing of conduction in response to sustained, high-frequency activation ("fatigue").
+ We hypothesized that a model incorporating quantitative descriptors of all three processes might be able to account for a wide variety of AV nodal behaviors.
+ Quantitative descriptors of AV nodal recovery, facilitation, and fatigue were developed based on AV nodal conduction changes during selective pacing protocols in seven autonomically blocked dogs.
+ These descriptors were incorporated into a set of mathematical equations that define AV nodal conduction of any beat based on activation history.
+ The equations were then applied to predict pacing-induced Wenckebach periodicity in each dog.
+ Experimental data were obtained after nine to 19 step decreases in atrial cycle length into the Wenckebach zone in each animal.
+ Observed behaviors included complex patterns of block, a progressive increase in the level of block over 5 minutes of rapid pacing, and periods of alternating patterns of block.
+ The model accurately predicted the onset of AV block at each cycle length, the relation between conduction ratio and cycle length as a function of time, and the changing patterns of Wenckebach periodicity during sustained atrial pacing.
+ All three terms of the model equation (describing recovery, facilitation, and fatigue) were essential to account fully for the observed behaviors.
+ Elimination of AV nodal fatigue from the model resulted in failure to account for time-dependent changes in Wenckebach patterns, whereas exclusion of facilitation led to consistent overestimation of the degree of AV block at each cycle length.
+ We conclude that a mathematical model incorporating terms to describe recovery, facilitation, and fatigue accurately predicts a wide range of Wenckebach-type behavior and that complex conduction patterns of the AV node can be fully accounted for by simple functional AV nodal properties.

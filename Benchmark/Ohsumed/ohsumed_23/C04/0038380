@@ -1,0 +1,7 @@
+A mathematical computer stimulation model for the development of colonic polyps and colon cancer.
+ Currently known information about the development and progression of colon polyps and cancer is summarized and organized into a mathematical computer simulation model that successfully predicts the natural history of colon polyp and cancer development for an average patient with (1) familial polyposis coli (2) genetic susceptibility as measured by a positive family history, and (3) negative family history with a high fat diet.
+ The mathematical model uses four distinct types of cells (normal, transformed, polypoid, and cancerous) and two kinetic processes (mutation and promotion).
+ Arachidonic acid metabolites play a role in the model in the promotion of cancer from polyps, and account for that promotion through: (1) their effect on encouraging more polypoid cells in mitosis to move toward cancer; and (2) their immunosuppressive effect over time.
+ The model also shows that one defect in allowing more cells to mutate to the transformed state is sufficient to account for the chain of events leading to the clinical sequelae of familial polyposis coli.
+ A second genetic effect at another point in the process is unnecessary.
+ The mechanism of action of Sulindac on colon polyps is explained by the model through inhibition of production of arachidonic acid metabolites, most notably prostaglandin E.

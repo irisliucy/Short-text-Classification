@@ -1,0 +1,12 @@
+Orbit-related variation in spatial resolution as a source of artifactual defects in thallium-201 SPECT 
+ The cause of 180-degree diametrical artifactual defects in clinical thallium-201 SPECT imaging was investigated using phantom simulation.
+ This artifact was observed on SPECT images acquired with a "body contour" or "peanut" orbit.
+ It was hypothesized that this artifact was caused by differences in spatial resolution that occur when the heart-to-detector distance changes employing noncircular orbits.
+ To test this hypothesis, a series of planar static images of a normal cylindrical phantom was obtained at varying distances from the camera detector head.
+ From these images, tomographic acquisition files were created that simulated tomographic data acquired with circular orbits and elliptical orbits.
+ The reconstructed phantom short-axis slices showed no artifacts for circular orbits.
+ However, for various elliptical orbits, significant regional nonuniformity, similar to the artifacts noted in patients, was observed.
+ The degree of nonuniformity correlated with the long-short axis ratio of elliptical orbits (r = 0.98).
+ In addition, circular orbits with the phantom in an eccentric position resulted in similar nonuniformities.
+ It is concluded that a noncircular tomographic orbit can create characteristic artifacts on thallium-201 SPECT images.
+ For rotational thallium 201 SPECT, a circular orbit with the heart in the center of rotation should be employed.

@@ -1,0 +1,10 @@
+Quantifying the disease impact of alcohol with ARDI software.
+ Alcohol-Related Disease Impact (ARDI) Software has been developed for the Centers for Disease Control (CDC) to allow States to calculate mortality, years of potential life lost (YPLL), direct health-care costs, indirect morbidity and mortality costs, and nonhealth-sector costs associated with alcohol use and misuse.
+ The mortality related measures--mortality, YPLL, and indirect mortality costs--are computed for 35 diagnoses related to alcohol use and misuse.
+ A review of clinical research studies and injury surveillance studies was conducted to produce estimates of the alcohol-attributable fraction (AAF) for each diagnosis.
+ For these measures, age-specific and age-adjusted rates are also calculated.
+ Health care costs, morbidity costs, and nonhealth-sector costs are prorated from national studies to the State or locality.
+ This multiple-measure approach to quantifying a health problem is termed "disease impact estimation." National estimates of the disease impact of alcohol use and misuse have been produced using ARDI software and State-specific estimates are in preparation.
+ Designed to CDC specifications, ARDI is completely menu-driven and operates within Lotus 1-2-3 software as a set of linked spreadsheets.
+ ARDI adapts national epidemiologic and health economics methods for use by State and local health agencies.
+ ARDI produces data on the health consequences of alcohol use and misuse for use by locally based policymakers, public health professionals, and researchers, while permitting comparison and compilation of these data across jurisdictions.

@@ -1,0 +1,7 @@
+Development of a computer-aided surgery system: three-dimensional graphic reconstruction for treatment of liver cancer.
+ Simulation of the needle puncture and volume estimation for the tumors in the liver were carried out with the three-dimensional image reconstruction system, which consists of a medical image acquisition system, a data processing system, and a graphic display.
+ A set of sliced-image data from a computerized tomography and/or a magnetic resonance imaging was used to reconstruct the liver, the vessels, and the tumors of the patients with liver cancer.
+ A good agreement of anatomic locations of both the intrahepatic vessels and the tumors between the reconstructed liver model and the echography done intraoperatively was observed.
+ Surgical simulations with these graphic models clearly indicated safety areas for needle puncture in the laser coagulation therapy.
+ In addition liver volumes were calculated within 3% of error in comparison to the measured values.
+ These results indicate that the computer-aided surgery system is a highly promising method that avoids cumbersome stereoscopic recognition of the anatomical location of the diseased area and the vessels, before and after surgery.

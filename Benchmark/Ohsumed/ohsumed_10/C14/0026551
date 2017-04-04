@@ -1,0 +1,14 @@
+Diagnostic implications of spectral and temporal analysis of the entire cardiac cycle in patients with ventricular tachycardia 
+ BACKGROUND.
+ Available methods for analysis of signal-averaged electrocardiograms (ECGs) have a low-positive predictive accuracy for identifying patients at risk for ventricular arrhythmias.
+ Identification of the spectral and temporal features in ECGs that distinguish patients prone to ventricular tachycardia (VT) is a prerequisite to implementing refinements in methods that increase the diagnostic power of the signal-averaged ECG.
+ METHODS AND RESULTS.
+ Fast Fourier transforms and time-domain reconstructions based on inverse fast Fourier transforms were computed over the entire cardiac cycle of signal-averaged ECGs of sinus beats from 40 patients with myocardial infarction and sustained VT, 41 with infarction without VT, and 20 normal controls.
+ Ventricular depolarization and repolarization were analyzed by procedures that obviate limited resolution due to short data segments and window functions.
+ Spectral magnitudes of ECGs from patients in each group were compared, and the phase data were used for time-domain reconstructions to determine the temporal distributions of distinguishing frequency bands during the cardiac cycle.
+ Magnitudes of 1-7-Hz frequencies were increased (from p less than 0.05 to p less than 0.00001), and magnitudes of 13-56-Hz and 70-128-Hz frequencies were decreased (from p less than 0.05 to p less than 0.00001) in the spectra of ECGs from patients with VT compared with patients without VT.
+ Time-domain reconstructions demonstrated that 1-7-Hz frequencies were detectable throughout the QRS complex, ST segment, and T wave in ECGs from each group.
+ The 13-56-Hz and 70-128-Hz frequency bands not only contributed to the terminal QRS and ST segment but were also detectable throughout the QRS complex of ECGs from patients with VT.
+ CONCLUSIONS.
+ Results define new spectral and temporal features in signal-averaged ECGs from patients with VT that are excluded from analysis by available techniques that limit the bandwidth or restrict interrogation to portions of the cardiac cycle.
+ These findings provide an objective basis for developing new indexes for signal-averaged ECG analysis.

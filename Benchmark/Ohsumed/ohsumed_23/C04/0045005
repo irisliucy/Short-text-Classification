@@ -1,0 +1,8 @@
+A model for breast cancer screening.
+ A model for breast cancer screening has been developed.
+ When the appropriate screening policy is specified, the model reproduces the detection rates and the incidence of interval cancers as observed in the recent screening projects in Utrecht and Nijmegen, the Netherlands.
+ The model-predicted mortality rate reduction is in accordance with the results of the Kopparberg/Ostergotland randomized trial in Sweden.
+ Key parameters of the model are the duration of the preclinical stages and the sensitivity of mammography.
+ The average duration is approximately 2 years at age 40 and increases to approximately 5 years at age 70.
+ The sensitivity is high (approximately 95%) for tumors larger than 1 cm.
+ The model is used in the prospective evaluation of effects and costs of various screening policies.

@@ -1,0 +1,8 @@
+Admission and mid-stay MedisGroups scores as predictors of death within 30 days of hospital admission.
+ We examined the ability of MedisGroups, a severity measure based on clinical data abstracted from the medical record, to predict mortality 30 days following admission.
+ MedisGroups measures severity both on admission and approximately one week into the hospital stay.
+ The data base was a random sample of 20,985 admissions of Medicare beneficiaries with one of six conditions from 833 hospitals in seven states between January 1985 and May 1986.
+ In all six conditions, higher admission and mid-stay severity scores were generally associated with higher risk of death.
+ Across the six conditions, the R-squared values for predicting death using admission scores ranged from 0.01 to 0.16; R-squared values using mid-stay scores ranged from 0.03 to 0.34; and R-squared values from combining admission and mid-stay scores ranged from 0.05 to 0.41.
+ Admission MedisGroups score was thus only modestly predictive of 30-day mortality.
+ While the mid-stay score was more powerful, it may not be an appropriate severity adjuster to screen for quality using hospital mortality rates because it could be influenced by substandard care.

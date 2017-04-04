@@ -1,0 +1,8 @@
+Collinear nutrients and the risk of colon cancer.
+ The relationship between colon cancer risk and the relative contributions of fat and caloric intake are assessed.
+ A lack of consensus exists regarding the role of each of these dietary factors in the development of colon cancer.
+ This lack of agreement originates from the high correlations between the nutrients, as well as the manner in which researchers treat these dietary variables in their analyses.
+ Four proposed methods are evaluated which attempt to address the collinearity problem in nutritional epidemiology: (1) exclude one or more collinear variables, (2) use the proportion of calories consumed attributable to each dietary component, (3) use a regression-adjustment approach to purge the collinearity correlated nutrients, and (4) ridge regression.
+ Diagnostic tests are reported which assess the degree of collinearity on data collected for a case-control study of colon cancer conducted in Utah between 1979 and 1983.
+ Using logistic regression analyses, we apply each of these methods to case-control data.
+ We find that the risks associated with fat and caloric consumption are extremely sensitive to a priori analytic decisions made by epidemiologist about the underlying collinearity problem.
