@@ -1,4 +1,4 @@
-## Short Text CLassification with Deep Neural Networks: An Exerimental Analysis
+## Short Text Classification with Deep Neural Networks: An Exerimental Analysis
 
 An experimental analysis with the aim to examine different neural networks and machine learning approaches. We also include a structural model that comprises of a temporal LSTM and a machine learning classifier. We extract the intermediate outputs from the hidden layers of a LSTM for feature engineering in a machine learning classifer. We run our models on 3 different datasets, [20 Newsgroups dataset](http://qwone.com/~jason/20Newsgroups/), [Ohsumed dataset](http://disi.unitn.it/moschitti/corpora.htm) and [Yahoo! Answer dataset](https://cogcomp.cs.illinois.edu/page/resource_view/89). In order to solve a multi-class classification problem, we created benchmark datasets based on those source datasets.
 
