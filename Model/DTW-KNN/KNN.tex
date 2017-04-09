@@ -1,0 +1,36 @@
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage{geometry}
+\usepackage{algorithm}
+\usepackage{algpseudocode}
+\begin{document}
+	% Insert the algorithm
+	\begin{algorithm}
+		\caption{Compute the 20 nearest neighbors }
+		\begin{algorithmic}[0]
+			\State {Variable queue: MinPriorityQueue}
+		\end{algorithmic}
+		\begin{algorithmic}[1]
+			\State ${\bf input:\ }${the total number of time series $M$, current query sequence $C$ , query set $Q$}
+			\Procedure{DTWGroundTruthKNN}{$C,Q$}
+			\State $Count \gets 0$
+			\For {$i \gets 0 \ to \ M$}
+			\If {$Count<20$}
+				\State {$queue.Push(i,\ DTW(Q[i],Q))$}
+			\Else
+				\State {Sort the $queue$ with their Minimum Warping Cost in ascending order}
+				\State {$temp\gets DTW(Q[i],Q)$}
+				\State {$top\gets queue.Top()$}
+				\If {$temp<top$}
+					\State {$queue.Pop()$}
+					\State {$queue.Push(Q[i],Q)$}
+				\EndIf
+				\State {$Count++$}
+			\EndIf
+			\EndFor
+			\State {Sort the $queue$ with their Minimum Warping Cost in ascending order}
+			\State ${\bf return\ }queue$
+			\EndProcedure
+		\end{algorithmic}
+	\end{algorithm}
+\end{document}

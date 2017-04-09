@@ -1,0 +1,38 @@
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage{geometry}
+\usepackage{algorithm}
+\usepackage{algpseudocode}
+\begin{document}
+	% Insert the algorithm
+	\begin{algorithm}
+		\caption{Compute DTW warping cost }
+		\begin{algorithmic}[0]
+			\State {Let a  that S[0, ..., n, 0, ...m] such that n and m points in the two time series}
+		\end{algorithmic}
+		\begin{algorithmic}[1]
+			\State ${\bf input:\ }${A 2D matrix $S$ stores the similarity  measures, Query set $Q$ , time series with dimension $D$}
+			\Procedure{DTW}{$Q[n],Q$}
+			\State $S[0,0] \gets 0$
+			\For {$i \gets 1 \ to \ m$}
+				\State $S[0,i] \gets \infty$
+			\EndFor
+				\For {$i \gets 1 \ to \ n$}
+			\State $S[i,0] \gets \infty$
+			\EndFor	
+
+			\For {$j \gets 1 \ to \ m$}
+				\State $distance \gets 0$
+				\For {$i \gets 0 \ to \ D $}
+					\State $distance += {(Q[n]-Q[j])}^2 $
+				\EndFor
+			\State $cost \gets \sqrt{distance} $
+			\State $S[n, j] \gets cost + \min (S[i-1, j], S[i, j-1], S[i-1, j-1])$
+			\EndFor
+			
+			
+			\State ${\bf return\ }sqrt(S[Q[n], Q])$
+			\EndProcedure
+		\end{algorithmic}
+	\end{algorithm}
+\end{document}
