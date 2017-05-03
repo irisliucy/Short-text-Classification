@@ -1,0 +1,12 @@
+Clinical prediction rule for pulmonary infiltrates 
+ OBJECTIVE: To derive and validate a clinical rule for predicting pneumonic infiltrates in adult patients with acute respiratory illness.
+ DESIGN: Prevalence studies in three settings.
+ SETTING: Emergency departments of the University of Illinois Hospital at Chicago, the University of Nebraska Medical Center at Omaha, and the Medical College of Virginia at Richmond.
+ PATIENTS: Symptoms, signs, comorbidity data, and chest roentgenogram results were recorded for 1134 patients from Illinois (the derivation set), 150 patients from Nebraska, and 152 patients from Virginia (the validation sets).
+ All patients presented to the emergency department and had a chest roentgenogram to evaluate fever or respiratory complaints.
+ MEASUREMENTS AND MAIN RESULTS: Within the training set, temperature greater than 37.8 degrees C, pulse greater than 100 beats/min, rales, decreased breath sounds, and the absence of asthma were identified as significant predictors of radiographically proved pneumonia in a stepwise logistic regression model (P = 0.001).
+ The logistic rule discriminated patients with and without pneumonia in the training set with a receiver operating characteristic (ROC) area of 0.82.
+ In the validation sets, the rule discriminated pneumonia and nonpneumonia with ROC areas of 0.82 and 0.76 after adjusting for differences in disease prevalence (P greater than 0.2 compared with the training set).
+ The predicted probability of having pneumonia for patients with different clinical findings corresponded closely with the incidence of pneumonia among patients with such findings in the three settings.
+ CONCLUSIONS: Among adults presenting with acute respiratory illness, a prediction rule based on clinical findings accurately discriminated patients with and without radiographic pneumonia, and was used in two other samples of patients without significant decrement in discriminatory ability.
+ This rule can be used by physicians to develop more effective strategies for detecting pneumonia and for helping to determine the need for radiologic study among patients with acute respiratory disease.

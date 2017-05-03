@@ -1,0 +1,7 @@
+Latency and time-dependent exposure in a case-control study.
+ Detailed historical data are elicited often from subjects in retrospective studies, yielding time-dependent measures of exposures.
+ Investigation of a hypothesized period of latency can be made by examining disease/exposure relationships in multiple time windows, either along the age or time-before diagnosis axes.
+ We suggest splitting the data into many time intervals and separately fitting regression models to the available data in each interval.
+ Covariances between estimated coefficients from different intervals are empirically estimated, and used for assessing variability of specified functions of the time-specific coefficients.
+ Alternative methods of interval formation and their consequences are discussed.
+ We apply these methods to a French case-control study of oral contraceptive use and cervical cancer incidence, and compare the results to those of standard analyses.

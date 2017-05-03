@@ -1,0 +1,11 @@
+Reorientation of the left ventricular long-axis on myocardial transaxial tomograms by a linear fitting method.
+ A method is described for reorientating the left ventricular (LV) long-axis from myocardial transaxial tomographic data.
+ On a midventricular transverse slice and on a midventricular sagittal slice, the apical and basal limits are selected successively by the operator.
+ The linear activity profiles between these two limits are plotted line by line.
+ In each profile, the two points with the maximum counts in the septal and lateral walls on the transverse slice, or in the anterior and inferior walls on the sagittal slice, are detected.
+ The intermediate point with the minimum counts is then determined.
+ The set of points with minimum counts are fitted by a straight line using the least squares method.
+ This line is taken as the LV long-axis.
+ In a series of 15 cases with stress-delayed 201Tl SPECT, the reproducibility of the reorientation with this semi-automatic method was compared with manual selection of the LV long-axis.
+ In all patients, a successful reorientation was obtained with the present method.
+ The reproducibility was significantly better with the semi-automatic method than with the manual selection of the LV long-axis.

@@ -1,0 +1,11 @@
+Regressive logistic models for familial diseases: a formulation assuming an underlying liability model.
+ Statistical models have been developed to delineate the major-gene and non-major-gene factors accounting for the familial aggregation of complex diseases.
+ The mixed model assumes an underlying liability to the disease, to which a major gene, a multifactorial component, and random environment contribute independently.
+ Affection is defined by a threshold on the liability scale.
+ The regressive logistic models assume that the logarithm of the odds of being affected is a linear function of major genotype, phenotypes of antecedents and other covariates.
+ An equivalence between these two approaches cannot be derived analytically.
+ I propose a formulation of the regressive logistic models on the supposition of an underlying liability model of disease.
+ Relatives are assumed to have correlated liabilities to the disease; affected persons have liabilities exceeding an estimable threshold.
+ Under the assumption that the correlation structure of the relatives' liabilities follows a regressive model, the regression coefficients on antecedents are expressed in terms of the relevant familial correlations.
+ A parsimonious parameterization is a consequence of the assumed liability model, and a one-to-one correspondence with the parameters of the mixed model can be established.
+ The logits, derived under the class A regressive model and under the class D regressive model, can be extended to include a large variety of patterns of family dependence, as well as gene-environment interactions.

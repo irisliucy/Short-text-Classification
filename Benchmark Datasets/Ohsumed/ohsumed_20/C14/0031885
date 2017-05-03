@@ -1,0 +1,7 @@
+Analysis and interpretation of treatment effects in subgroups of patients in randomized clinical trials.
+ A key principle for interpretation of subgroup results is that quantitative interactions (differences in degree) are much more likely than qualitative interactions (differences in kind).
+ Quantitative interactions are likely to be truly present whether or not they are apparent, whereas apparent qualitative interactions should generally be disbelieved as they have usually not been replicated consistently.
+ Therefore, the overall trial result is usually a better guide to the direction of effect in subgroups than the apparent effect observed within a subgroup.
+ Failure to specify prior hypotheses, to account for multiple comparisons, or to correct P values increases the chance of finding spurious subgroup effects.
+ Conversely, inadequate sample size, classification of patients into the wrong subgroup, and low power of tests of interaction make finding true subgroup effects difficult.
+ We recommend examining the architecture of the entire set of subgroups within a trial, analyzing similar subgroups across independent trials, and interpreting the evidence in the context of known biologic mechanisms and patient prognosis.

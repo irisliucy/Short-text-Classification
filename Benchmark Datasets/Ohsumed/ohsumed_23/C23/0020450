@@ -1,0 +1,7 @@
+Multivariate data reduction by principal components, with application to neurological scoring instruments.
+ Principal components analysis is widely used as a practical tool for the analysis of multivariate data.
+ The aim of this analysis is to reduce the dimensionality of a multivariate data set to the smallest number of meaningful and independent dimensions.
+ The analysis can also provide interpretable linear functions of the original measured variables that may serve as valuable indices of variation.
+ A brief introduction to principal components analysis is given herein, followed by an examination of a particular set of multivariate data accruing from a study of acute brain injuries in a pediatric population, in which severity of brain injury had been assessed with the Glasgow Coma Scale (CGS).
+ Principal components analysis reveals that the GCS sum score is a particularly inefficient summarizer of information in this cohort.
+ The determination of an objective weighting of measured variables, as provided through principal components analysis, is essential in the construction of meaningful neurological scoring instruments.

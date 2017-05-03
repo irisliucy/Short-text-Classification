@@ -1,0 +1,13 @@
+Predicting the outcomes of electrophysiologic studies of patients with unexplained syncope: preliminary validation of a derived model.
+ PURPOSE: To develop and validate a predictive model that would allow clinicians to determine whether an electrophysiologic (EP) study is likely to result in useful diagnostic information for a patient who has unexplained syncope.
+ PATIENTS: One hundred seventy-nine consecutive patients with unexplained syncope who underwent EP studies at two university medical centers comprised the training sample.
+ A test sample to validate the model was made up of 138 patients from the clinical literature who had undergone EP studies for syncope.
+ DESIGN: Retrospective analysis of patients undergoing EP studies for syncope.
+ The data collector was blinded to the study hypothesis; the electrophysiologist assessing outcomes was blinded to clinical and historical data.
+ Clinical predictor variables available from the history, the physical examination, electrocardiography (ECG), and Holter monitoring were analyzed via two multivariable predictive modeling strategies (ordinal logistic regression and recursive partitioning) for their abilities to predict the results of EP studies, namely tachyarrhythmic and bradyarrhythmic outcomes.
+ These categories were further divided into full arrhythmia and borderline arrhythmia groups.
+ RESULTS: Important outcomes were 1) sustained monomorphic ventricular tachycardia (VT) and 2) bradyarrhythmias, including sinus node and atrioventricular (AV) conducting disease.
+ The results of the logistic regression (in this study, the superior strategy) showed that the presence of organic heart disease [odds ratio (OR) = 3.0, p less than 0.001] and frequent premature ventricular contractions on ECG (OR = 6.7, p less than 0.004) were associated with VT, while the following abnormal ECG findings were associated with bradyarrhythmias: first-degree heart block (OR = 7.9, p less than 0.001), bundle-branch block (OR = 3.0, p less than 0.02), and sinus bradycardia (OR = 3.5, p less than 0.03).
+ Eighty-seven percent of the 31 patients with important outcomes at EP study had at least one of these clinical risk factors, while 95% of the patients with none of these risk factors had normal or nondiagnostic EP studies.
+ In the validation sample, the presence of one or more risk factors would have correctly identified 88% of the test VT patients and 65% of the test bradyarrhythmia patients as needing EP study.
+ CONCLUSION: These five identified predictive factors, available from the history, the physical examination, and the initial ECG, could be useful to clinicians in selecting those patients with unexplained syncope who will have a serious arrhythmia identified by EP studies.

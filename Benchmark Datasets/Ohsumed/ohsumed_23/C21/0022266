@@ -1,0 +1,7 @@
+A comparison of three computer models for prediction of dose in acute amitriptyline overdose.
+ The pharmacokinetics of amitriptyline in overdose have been reported not to fit conventional compartmental models.
+ In this study, the dose-concentration-time relationships of amitriptyline in overdose were modeled with discriminant analysis, with an evolutionary heuristic search program, and with a decision-tree model based on the entropy of uncertainty of classification.
+ The computer models all used the same data from dogs administered treatment (80 mg/kg), toxic (250 mg/kg), or fatal (500 mg/kg) doses directly into the surgically isolated duodenum.
+ All the models achieved a high degree of success (77 to 93%) in assigning records to the high-, low-, or middle-dose groups.
+ Two of the models gave a probability of the assignment.
+ Results of this analysis suggest that blood amitriptyline and nortriptyline concentrations are most useful in estimating dose in acute amitriptyline overdose.

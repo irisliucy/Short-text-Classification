@@ -1,0 +1,11 @@
+Testing for association between disease and linked marker loci: a log-linear-model analysis.
+ One approach frequently used for identifying genetic factors involved in the process of a complex disease is the comparison of patients and controls for a number of genetic markers near a candidate gene.
+ The analysis of such association studies raises some specific problems because of the fact that genotypic and not gametic data are generally available.
+ We present a log-linear-model analysis providing a valid method for analyzing such studies.
+ When studying the association of disease with one marker locus, the log-linear model allows one to test for the difference between allelic frequencies among affected and unaffected individuals, Hardy-Weinberg (H-W) equilibrium in both groups, and interaction between the association of alleles at the marker locus and disease.
+ This interaction provides information about the dominance of the disease susceptibility locus, with dominance defined using the epidemiological notion of odds ratio.
+ The degree of dominance measured at the marker locus depends on the strength of linkage disequilibrium between the marker locus and the disease locus.
+ When studying the association of disease with several linked markers, the model becomes rapidly complex and uninterpretable unless it is assumed that affected and unaffected populations are in H-W equilibrium at each locus.
+ This hypothesis must be tested before going ahead in the analysis.
+ If it is not rejected, the log-linear model offers a stepwise method of identification of the parameters causing the difference between populations.
+ This model can be extended to any number of loci, alleles, or populations.

@@ -1,0 +1,14 @@
+Predictors of outcome in children hospitalized with maxillofacial infections: a linear logistic model.
+ The purpose of this study was to determine factors predictive of clinical outcome for pediatric patients with maxillofacial infections.
+ Using linear logistic regression, four important variables, age, admission temperature, admission white blood cell count, and source of infection, were identified.
+ Relevant study variables were abstracted from the records of all children less than 15 years old admitted to San Francisco General Hospital (SFGH) with facial infections between 1982 and 1986 (n = 105).
+ An unfavorable clinical outcome was defined as a length of hospital stay (LOS) greater than or equal to 4 days and/or the need for an operation to resolve the infection.
+ A favorable outcome was a LOS less than 4 days and no operation.
+ To develop and validate the linear logistic model, the original group of patients (n = 105) was divided into index and validation sets.
+ The index set was created by randomly selecting 80 of the original patients.
+ The model was then applied to a validation set of the 25 remaining children.
+ The model predicted that 13.95 of the patients in the validation set would have an unfavorable outcome.
+ The actual number of unfavorable outcomes was 16.
+ To further test the model's validity, a third data set was collected.
+ It was composed of pediatric patients admitted to SFGH between January 1, 1987 and June 30, 1989 (n = 24).
+ The model predicted that 15.99 of these patients would have an unfavorable outcome; 17 patients actually did have an unfavorable outcome.

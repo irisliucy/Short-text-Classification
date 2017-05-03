@@ -1,0 +1,12 @@
+A methodology for building an AIDS research file using Medicaid claims and administrative data bases.
+ There is a current and continuing need for health services research on the epidemiology of AIDS and its impact on health care systems.
+ However, large data bases designed for other purposes, such as hospital discharge abstract systems and medical claims systems, are the primary source of data for AIDS research.
+ Thus, methodologies must be developed that enable researchers to investigate AIDS using data bases designed for other purposes.
+ In this report, we describe a methodology for utilizing Medicaid Management Information Systems (MMIS) data to conduct health services research on AIDS.
+ We developed an ICD-9-CM diagnosis-based algorithm that accurately identified the majority of AIDS cases, both before and after AIDS-specific ICD-9-CM codes became available in October 1986.
+ Using diagnostic categories that we had developed previously to identify AIDS cases among disabled young men in California on Medicaid, we expanded the methodology to include children, men, and women of all ages in California and New York.
+ The algorithm worked best with young disabled males, older males, and females between 18 and 50 years of age.
+ The algorithm worked least well with nondisabled males, females over age 50 years, and children.
+ We also developed methodologies for defining Medicaid AIDS onset, risk group, and date of death.
+ Our research resulted in the identification of a study population representing the majority of Medicaid AIDS cases between 1983 and 1986 in California and New York.
+ The AIDS study population data base was used in further research on eligibility patterns, the epidemiology of the AIDS epidemic, lifetime Medicaid utilization and expenditures, and the development of a survival-based severity index for Medicaid recipients with AIDS.

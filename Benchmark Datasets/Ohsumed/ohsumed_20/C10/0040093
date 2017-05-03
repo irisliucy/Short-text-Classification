@@ -1,0 +1,8 @@
+Computer-assisted superimposition of magnetic resonance and high-resolution technetium-99m-HMPAO and thallium-201 SPECT images of the brain.
+ A method for registering three-dimensional CT, MR, and PET data sets that require no special patient immobilization or other precise positioning measures was adapted to high-resolution SPECT and MRI and was applied in 14 subjects (five normal volunteers, four patients with dementia (Alzheimer's disease), two patients with recurrent glioblastoma, and three patients with focal lesions (stroke, arachnoid cyst and head trauma].
+ T2-weighted axial magnetic resonance images and transaxial 99mTc-HMPAO and 201Tl images acquired with an annular gamma camera were merged using an objective registration (translation, rotation and rescaling) program.
+ In the normal subjects and patients with dementia and focal lesions, focal areas of high uptake corresponded to gray matter structures.
+ Focal lesions observed on MRI corresponded to perfusion defects on SPECT.
+ In the patients who had undergone surgical resection of glioblastoma followed by interstitial brachytherapy, increased 201Tl corresponding to recurrent tumor could be localized from the superimposed images.
+ The method was evaluated by measuring the residuals in all subjects and translational errors due to superimposition of deep structures in the 12 subjects with normal thalamic anatomy and 99mTc-HMPAO uptake.
+ This method for superimposing magnetic resonance and high-resolution SPECT images of the brain is a useful technique for correlating regional function with brain anatomy.

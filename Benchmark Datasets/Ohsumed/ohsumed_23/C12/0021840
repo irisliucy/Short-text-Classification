@@ -1,0 +1,7 @@
+Prostatic MR imaging performed with the three-point Dixon technique. Work in progress.
+ The three-point Dixon technique is an enhancement of the original Dixon method for the creation of water- and fat-proton magnetic resonance (MR) images.
+ With the three-point Dixon technique, three measurements of phase shift at 0, pi, and -pi between the fat and water resonances are employed.
+ Compensation for B0 inhomogeneity leads to an error-free decomposition into water- and fat-proton images; an accurate B0 map is also created.
+ The lack of chemical shift artifact in the water- and fat-selective MR images permits the application of narrow receive bandwidth for the creation of T2-weighted images with a high signal-to-noise ratio.
+ The technique was applied in vivo with four healthy subjects, seven patients with prostatic carcinoma, and one patient with benign prostatic hypertrophy and compared with conventional T2-weighted imaging.
+ The three-point technique yielded images with improved definition of normal intraprostatic structures and zonal anatomy and, in some cases of prostatic carcinoma, provided better visualization of extraprostatic spread of tumor.

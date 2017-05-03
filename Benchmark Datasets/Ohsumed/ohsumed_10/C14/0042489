@@ -1,0 +1,15 @@
+Localization of breakthrough site of canine monomorphic ventricular tachycardia by pacemapping. A vectorial approach.
+ BACKGROUND.
+ The precision and limitations of ventricular pacemapping as a method to localize the site of earliest breakthrough of ventricular tachycardia (VT) were investigated in a canine model of experimental myocardial infarction.
+ METHODS AND RESULTS.
+ Forty-one episodes of VT induced in 10 animals were mapped using a standard grid of 64 endocardial and epicardial bipolar electrodes to determine the site of earliest endocardial or epicardial breakthrough of activation during VT.
+ Each of these 64 recording sites was also used for ventricular pacing during sinus rhythm at cycle lengths comparable to those of the VTs.
+ Orthogonal X, Y, and Z Frank electrocardiographic (ECG) leads were recorded during all episodes of VT and ventricular pacing from all sites after the chest was closed in all animals.
+ Surface ECG waveforms corresponding to each VT and each ventricular pacing were compared pairwise by measuring the Euclidean metric difference between the VT and ventricular pacing vectors with the orthogonal ECG leads as their X, Y, and Z components.
+ The pacing site that generated the vector most similar to VT vector (smallest vectorial difference) was defined as the predicted breakthrough site.
+ This predicted site of breakthrough was identical to the actual site of breakthrough determined by activation sequence mapping during VT for only nine VTs (22%).
+ However, for an additional 27 VTs (66%), the observed and predicted breakthrough locations were at adjacent (1 cm or less apart) recording sites.
+ For five VTs (12%), the two sites were remote, the distance between them exceeding 1 cm.
+ CONCLUSIONS.
+ In this model, locating the breakthrough site by pacemapping is exact in only a small minority of VTs.
+ However, when orthogonal surface ECG leads are used for comparison, pacemapping can predict the site of earliest breakthrough during VT with a 1-cm resolution in the majority of VTs.

@@ -1,0 +1,9 @@
+Application of the linear-quadratic model with incomplete repair to radionuclide directed therapy.
+ The linear-quadratic (LQ) model for fractionated external beam therapy has been modified by previous authors to include the effects due to an exponentially decaying dose rate.
+ However, the LQ model has now been extended to include a general time varying dose rate profile, and the equations can be readily evaluated if an exponential radiation damage repair process is assumed.
+ These equations are applicable to radionuclide directed therapy, including brachytherapy.
+ Kinetic uptake data obtained during radionuclide directed therapy may therefore be used to determine the radiobiological dosimetry of the target and non-target tissues.
+ Also, preliminary tracer studies may be used to pre-plan the radionuclide directed therapy, provided that tracer and therapeutic amounts of the radionuclide carrier are identically processed by the tissues.
+ It is also shown that continuous radionuclide therapy will induce less damage in late-responding tissues than 2 Gy/fraction external beam therapy if the ratio of the maximum dose rate and the sublethal damage repair half-life in the tissue is less than 1.0 Gy.
+ Similar inequalities may be derived for beta-particle radionuclide directed therapy.
+ For example, it can be shown that radionuclide directed therapy will induce less damage to slowly repopulating tissue than 2 Gy/fraction external beam therapy for the same total dose if the maximum percentage initial uptake in tissue is less than 0.046%/g or 0.23%/g for an injected activity of 50 mCi of 90Y or 131I, respectively.

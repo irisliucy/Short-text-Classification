@@ -1,0 +1,13 @@
+Nuclear grading of breast carcinoma by image analysis. Classification by multivariate and neural network analysis.
+ The use of nuclear grade as a prognostic indicator for breast carcinoma has been limited by interobserver variability.
+ Advances in image analysis and automated cell classification offer one approach to this problem.
+ The authors used the CAS-100 (Cell Analysis System.
+ Elmhurst, IL) system to measure and analyze nuclear morphometric and texture features of cytologic preparations from 35 breast carcinomas (well, moderate, and poorly differentiated) as well as benign lesions.
+ Morphometric and Markovian texture feature data from breast cancer nuclei of various grades comprised a training set, which was then used to establish classification criteria by multivariate (Bayesian) analysis and to train a neural network system.
+ Both systems were tested for the ability to classify the nuclear grade of individual nuclei.
+ There was good agreement between computer classification and the grade assigned by human observer to individual nuclei using either Bayesian or neural network analysis.
+ Thirty-one unknown cases, which were assigned an overall grade by an observer, were then analyzed by computer, and an overall grade assigned based on the grade of nucleus most frequently present.
+ Using this method, both classification systems were able to assign a "correct" grade to low-grade lesions (approximately 70% correct) more often than to high-grade tumors (approximately 20%).
+ Difficulty in computer assignment of high-grade tumors was explained by nuclear heterogeneity in these tumors (i.e., although the percentage of high-grade nuclei was increased compared with that of low-grade tumors, high-grade nuclei frequently did not predominate).
+ The authors present this study to demonstrate the feasibility of using image analysis as an objective means of nuclear grading.
+ Further studies will be needed to establish criteria for assigning overall nuclear grade based on computer analysis of imaging data.

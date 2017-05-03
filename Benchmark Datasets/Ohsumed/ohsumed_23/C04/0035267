@@ -1,0 +1,8 @@
+Knowledge-based computer system to aid in the histopathological diagnosis of breast disease.
+ A knowledge-based computer system, designed to assist pathologists in the histological diagnosis of breast disease, is described.
+ This system represents knowledge in the form of "disease profiles" and uses a novel inference model based on the mathematical technique of hypergraphs.
+ Its design overcomes many of the limitations of existing expert system technologies when applied to breast disease.
+ In particular, the system can quickly focus on a differential problem and thus reduce the amount of data necessary to reach a conclusion.
+ The system was tested on two sets of samples, consisting of 14 retrospective cases and five hypothetical cases of breast disease.
+ Its recommendations were judged "correct" by the evaluating pathologist in 15 cases.
+ This study shows the feasibility of providing "decision support" in histopathology.

@@ -1,0 +1,7 @@
+Estimation of morbid risk and age at onset with missing information.
+ Investigators of genetic illnesses are currently employing life-table techniques to estimate the lifetime risk of disease and the age-at-onset distribution.
+ This methodology assumes that onset ages are known for affected individuals and that censoring ages are known for unaffected individuals.
+ We extend these methods to incorporate affected individuals with unknown onset ages and unaffected persons with unknown censoring ages and illustrate how conventional life-table methods can produce seriously biased estimates, particularly of lifetime risk.
+ The methodology is not restricted to genetic illnesses and can be applied to more complex illnesses with unknown etiology.
+ We present an example for Huntington disease, which is generally assumed to be a Mendelian autosomal dominant disease, yielding estimates of lifetime risk of .503 +/- .70 and mean onset age of 47.7 +/- 3.1 years for offspring with a single affected parent.
+ When conventional life-table techniques are employed, these estimates are .238 +/- .032 and 43.2 +/- 2.2.

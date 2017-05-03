@@ -1,0 +1,8 @@
+Spatial and temporal registration of cardiac SPECT and MR images: methods and evaluation.
+ Image registration may assist in the integration of information from multiple sources by allowing direct point-for-point comparisons of studies.
+ To determine the usefulness of such a technique, a method for the spatial and temporal registration of four-dimensional single photon emission computed tomographic (SPECT) and magnetic resonance (MR) cardiac images was developed.
+ Automatically detected left ventricular endocardial surfaces were used to determine the best transform between the two sets of surface points, and that transform was applied to the original SPECT image.
+ A fused image created from the MR and the transformed SPECT images combined the information in both.
+ The authors tested the method with seven patient studies.
+ Registration reduced the distance between the MR and SPECT left ventricular endocardial surfaces by 30%, to an average of 2.7 mm.
+ The authors found that, by using the fused images, perfusion abnormalities could be easily localized and correlated to high-resolution endocardial wall motion and systolic wall thickening.

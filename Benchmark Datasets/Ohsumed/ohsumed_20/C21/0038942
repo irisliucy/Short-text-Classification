@@ -1,0 +1,9 @@
+Artificial intelligence-assisted occupational lung disease diagnosis.
+ An artificial intelligence expert-based system for facilitating the clinical recognition of occupational and environmental factors in lung disease has been developed in a pilot fashion.
+ It utilizes a knowledge representation scheme to capture relevant clinical knowledge into structures about specific objects (jobs, diseases, etc) and pairwise relations between objects.
+ Quantifiers describe both the closeness of association and risk, as well as the degree of belief in the validity of a fact.
+ An independent inference engine utilizes the knowledge, combining likelihoods and uncertainties to achieve estimates of likelihood factors for specific paths from work to illness.
+ The system creates a series of "paths," linking work activities to disease outcomes.
+ One path links a single period of work to a single possible disease outcome.
+ In a preliminary trial, the number of "paths" from job to possible disease averaged 18 per subject in a general population and averaged 25 per subject in an asthmatic population.
+ Artificial intelligence methods hold promise in the future to facilitate diagnosis in pulmonary and occupational medicine.

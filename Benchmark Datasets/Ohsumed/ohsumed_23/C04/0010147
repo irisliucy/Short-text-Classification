@@ -1,0 +1,7 @@
+Data compression: effect on diagnostic accuracy in digital chest radiography.
+ High-resolution digital images make up very large data sets that are relatively slow to transmit and expensive to store.
+ Data compression techniques are being developed to address this problem, but significant image deterioration can occur at high compression ratios.
+ In this study, the authors evaluated a form of adaptive block cosine transform coding, a new compression technique that allows considerable compression of digital radiographs with minimal degradation of image quality.
+ To determine the effect of data compression on diagnostic accuracy, observer tests were performed with 60 digitized chest radiographs (2,048 x 2,048 matrix, 1,024 shades of gray) containing subtle examples of pneumothorax, interstitial infiltrate, nodules, and bone lesions.
+ Radiographs with no compression, with 25:1 compression, and with 50:1 compression ratios were presented in randomized order to 12 radiologists.
+ The results suggest that, with this compression scheme, compression ratios as high as 25:1 may be acceptable for primary diagnosis in chest radiology.

@@ -1,0 +1,7 @@
+Preoperative selection for curable renovascular hypertension.
+ Clinical research has defined the criteria for identifying "curable" renovascular hypertension.
+ The prediction is based on the measurement of plasma renin activity in peripheral veins, renal veins, and the aorta.
+ Renin profiles can be examined with the method of Laragh and coworkers (the so-called incremental method), in which values for plasma renin activity are incorporated into formulas to compute indexed parameters.
+ A score is attributed to each index and the prediction is based on the final score.
+ Because the identification of curable renovascular hypertension is made according to numerical rules, the method is easily transformed into a computer-assisted process.
+ The program is written in BASIC, and it is short enough to run on a personal computer.

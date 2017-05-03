@@ -1,0 +1,7 @@
+A video system for investigating breathing disorders during sleep.
+ A system has been developed for investigating breathing during sleep that superimposes physiological signals on a video image of the patient, with the combined image plus sound recorded on video tape for later analysis.
+ Signals normally displayed include oxygen saturation, airflow, chest wall motion, electroencephalogram, and electrooculogram; but others can be recorded if desired.
+ The information is displayed on a timebase appropriate for the recognition and analysis of respiratory events during sleep.
+ In addition, use is made of normally invisible video lines to record the analogue voltage waveforms so that on replay this information can be displayed on a fast timebase for analysing the more rapidly changing waveforms of electrophysiological signals.
+ The system allows detailed polysomnography to be performed in the normal ward setting with the subject monitored overnight by the nursing staff.
+ Subsequent analysis of the synchronised video, audio, and analogue signals allows measurement of the conventional indices obtained by polysomnography and aids their interpretation.

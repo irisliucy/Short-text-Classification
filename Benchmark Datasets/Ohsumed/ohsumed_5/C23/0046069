@@ -1,0 +1,10 @@
+The chemoreflex control of breathing and its measurement.
+ The chemoreflex control of breathing is described in terms of a graphical model.
+ The central chemoreflex, the ventilatory response to carbon dioxide mediated by the central chemoreceptors, is modelled as a straight-line relation between the ventilatory response and the arterial level of carbon dioxide.
+ The peripheral chemoreflex, the ventilatory response to carbon dioxide and hypoxia mediated by the peripheral chemoreceptors, is broken into two relations.
+ First, a straight-line relation between the ventilatory response and the arterial level of carbon dioxide whose slope (sensitivity) increases as the oxygen level varies from hyperoxic to hypoxic.
+ Second, a rectangular hyperbolic relation between the ventilatory response and the arterial level of oxygen with ventilation increasing with increasing hypoxia.
+ The three ventilatory response relations (one central and two peripheral) add to produce the total chemoreflex ventilatory response which forms the feedback part of the respiratory regulator.
+ The forward part consists of the relation between the arterial level of carbon dioxide and ventilation when ventilation is controlled (the metabolic hyperbola).
+ The forward and feedback parts of the respiratory regulator can be combined so as to predict resting ventilation and carbon dioxide levels under a number of circumstances.
+ Methods of measurement of these chemoreflex ventilatory responses are also described so as to illustrate the physiological principles involved in the model.

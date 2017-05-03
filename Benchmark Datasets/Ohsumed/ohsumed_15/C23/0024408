@@ -1,0 +1,4 @@
+Fast short-tau inversion-recovery MR imaging.
+ To enhance the versatility of the short-tau inversion-recovery (STIR) sequences, the authors determined a range of repetition time (TR) and inversion time (TI) combinations that suppress signal intensity from fat by study of both patient and phantom images.
+ To make fast STIR images, variations in the following pulsing conditions were studied with use of an interactive computer program: decreasing the TR, limiting the number of excitations, and limiting the number of phase-encoding steps.
+ The authors found that (a) STIR imaging need not be time consuming, (b) fat suppression can be accomplished at shorter TR by using shorter TI, and (c) short-TR fast STIR imaging is sensitive to enhancement with gadopentetate dimeglumine.

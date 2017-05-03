@@ -1,0 +1,7 @@
+A single cholesterol measurement underestimates the risk of coronary heart disease. An empirical example from the Lipid Research Clinics Mortality Follow-up Study.
+ In prospective epidemiologic studies of coronary heart disease, a single measurement of cholesterol is made to assess its relationship to the risk of coronary disease.
+ Statistical theory states that if this measurement is subject to within-individual variability, the strength of the relationship will be underestimated.
+ This is empirically shown for the example of plasma cholesterol.
+ For the Lipid Research Clinics Follow-up Study population (comprising 2170 white men over 30 years of age), the age-adjusted coronary heart disease mortality regression coefficient increases from .453 to .496 if the average of two cholesterol measurements is used instead of a single measurement.
+ Since the correlation between the two repeated cholesterol measurements is .815, an increase in the regression coefficient up to .556 would be expected if the true cholesterol values were available.
+ Thus, epidemiologic studies have substantially underestimated the strength of the relationship between cholesterol levels and the risk of coronary disease by calculating the relationship on the basis of a single cholesterol determination.

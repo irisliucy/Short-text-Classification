@@ -1,0 +1,9 @@
+Tests of EEG localization accuracy using implanted sources in the human brain.
+ The accuracy with which electrical sources in the brain can be localized by using electroencephalograms measured on the scalp is not well known.
+ In this study, tests of localization accuracy were performed by using implanted dipolar sources in the human brain.
+ These dipoles are created by passing a weak (subthreshold) current through intracerebral electrodes implanted in the brains of epileptic patients for seizure monitoring.
+ The locations of these dipoles are accurately known from roentgenographs.
+ First, 16 electroencephalograms produced by these dipoles were recorded, then inverse solutions were calculated for the apparent sources of these electroencephalograms.
+ Finally, the locations of the apparent sources were compared with the known locations of the implanted dipoles to determine localization error.
+ The average localization error for a total of 28 dipoles in 3 subjects was 1.1 cm.
+ These results indicate that good localization accuracy for focal sources in the brain can be provided by scalp electroencephalograms.

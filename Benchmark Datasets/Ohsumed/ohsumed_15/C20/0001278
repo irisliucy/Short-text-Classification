@@ -1,0 +1,6 @@
+Monte Carlo simulation of HIV infection in an intravenous drug user community.
+ Intravenous drug users are crucial to the understanding and control of human immunodeficiency virus (HIV) transmission.
+ We have developed a population-based simulation of a community of intravenous drug users.
+ This model was implemented using Monte Carlo techniques, which permit great flexibility in creating realistic social structures, to describe the needle-sharing network of drug users.
+ We present the baseline behavior of this model in a generic community and demonstrate the model's utility for assessing public health interventions.
+ Our early results demonstrate the powerful effects of social networks on HIV transmission and the importance of prevalence levels in assessing the effectiveness of interventions in the drug-injecting community.
