@@ -5,6 +5,8 @@ An experimental analysis with the aim to examine different neural networks and m
 
 We run our models on 3 different datasets, [20 Newsgroups dataset](http://qwone.com/~jason/20Newsgroups/), [Ohsumed dataset](http://disi.unitn.it/moschitti/corpora.htm) and [Yahoo! Answer dataset](https://cogcomp.cs.illinois.edu/page/resource_view/89). In order to solve a multi-class classification problem, we created benchmark datasets based on those source datasets.
 
+Final Year Project work is available at: http://dspace.cityu.edu.hk/handle/2031/93
+
 ### Requirements
 Code is written in Python (2.7) and requires Keras (2.0.2) with theano backend.
 
